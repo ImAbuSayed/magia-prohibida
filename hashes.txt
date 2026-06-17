@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Magia prohibida
+
+This log tracks the cryptographic history and versioning for the song **Magia prohibida** (magia-prohibida).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-17T17:57:05.264965 | `v1` | `3bf14a4b957c9502eac2b0f3c42435bb7b91fb0def770803847fd6f2a3a32246` | `4508ed3e67e546f2ee9e7b6388e8df2c601c141a691543e863c2c1cab1902943` | `2026-06-17_magia-prohibida-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

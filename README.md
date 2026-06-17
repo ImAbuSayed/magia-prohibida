@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/magia-prohibida/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Magia prohibida](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/magia-prohibida/) |
+| **Get License** | [Get a Licensing Quote for Magia prohibida](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/magia-prohibida/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `3bf14a4b957c9502eac2b0f3c42435bb7b91fb0def770803847fd6f2a3a32246` |
 | **Timestamp** | June 17, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
