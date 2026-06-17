@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/magia-prohibida/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Magia prohibida](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/magia-prohibida/) |
+| **Get License** | [Get License For Magia prohibida](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/magia-prohibida/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Bajo las luces de Madrid te quiero robar
+> Toda la noche entera, no lo puedes negar
+> Tienes la magia prohibida que me hace temblar
+> Sube conmigo, mi nena, te voy a llevar
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
